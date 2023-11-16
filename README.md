@@ -40,4 +40,4 @@ If you have any suggestions for improvements or would like to contribute additio
 
 This repository is licensed under the MIT License. You can find the full license text in the `LICENSE` file.
 
-## Happy Learning!
+## Happy Coding!
