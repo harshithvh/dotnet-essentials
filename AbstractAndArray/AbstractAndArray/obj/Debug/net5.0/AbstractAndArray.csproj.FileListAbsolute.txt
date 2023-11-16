@@ -1,0 +1,16 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\bin\Debug\net5.0\AbstractAndArray.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\bin\Debug\net5.0\AbstractAndArray.deps.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\bin\Debug\net5.0\AbstractAndArray.runtimeconfig.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\bin\Debug\net5.0\AbstractAndArray.runtimeconfig.dev.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\bin\Debug\net5.0\AbstractAndArray.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\bin\Debug\net5.0\AbstractAndArray.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.AssemblyInfoInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.AssemblyInfo.cs
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\refint\AbstractAndArray.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\AbstractAndArray.genruntimeconfig.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\AbstractAndArray\AbstractAndArray\obj\Debug\net5.0\ref\AbstractAndArray.dll
