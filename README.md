@@ -7,8 +7,9 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine:
 
-```bash
+```
 git clone https://github.com/harshithvh/dotnet-essentials.git
+```
 
 2. Open the cloned repository in a code editor or IDE of your choice.
 
