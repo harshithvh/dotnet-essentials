@@ -1,0 +1,16 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.deps.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.runtimeconfig.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.runtimeconfig.dev.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\bin\Debug\net5.0\CollectionDemo.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.AssemblyInfo.cs
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\refint\CollectionDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\CollectionDemo.genruntimeconfig.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\CollectionDemo\CollectionDemo\obj\Debug\net5.0\ref\CollectionDemo.dll
