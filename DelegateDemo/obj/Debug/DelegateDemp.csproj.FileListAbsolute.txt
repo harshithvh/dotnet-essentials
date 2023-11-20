@@ -1,0 +1,8 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\bin\Debug\DelegateDemp.exe.config
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\bin\Debug\DelegateDemp.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\bin\Debug\DelegateDemp.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\obj\Debug\DelegateDemp.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\obj\Debug\DelegateDemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\obj\Debug\DelegateDemp.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\obj\Debug\DelegateDemp.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\DelegateDemp\obj\Debug\DelegateDemp.pdb
