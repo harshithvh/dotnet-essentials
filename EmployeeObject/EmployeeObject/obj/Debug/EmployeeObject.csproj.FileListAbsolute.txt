@@ -1,0 +1,8 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\bin\Debug\EmployeeObject.exe.config
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\bin\Debug\EmployeeObject.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\bin\Debug\EmployeeObject.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\obj\Debug\EmployeeObject.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\obj\Debug\EmployeeObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\obj\Debug\EmployeeObject.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\obj\Debug\EmployeeObject.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmployeeObject\EmployeeObject\obj\Debug\EmployeeObject.pdb
