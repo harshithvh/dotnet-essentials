@@ -1,0 +1,15 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\bin\Debug\net5.0\EmpMgmtDAL.deps.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\bin\Debug\net5.0\EmpMgmtDAL.runtimeconfig.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\bin\Debug\net5.0\EmpMgmtDAL.runtimeconfig.dev.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\bin\Debug\net5.0\EmpMgmtDAL.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\bin\Debug\net5.0\EmpMgmtDAL.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.AssemblyInfoInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.AssemblyInfo.cs
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\refint\EmpMgmtDAL.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\EmpMgmtDAL.genruntimeconfig.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\EmpMgmtDAL\obj\Debug\net5.0\ref\EmpMgmtDAL.dll
