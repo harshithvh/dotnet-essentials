@@ -1,0 +1,60 @@
+﻿
+@model NewEmployeeVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h5>Create Employee</h5>
+
+<form asp-action="Create" asp-controller="ManageEmployee" method="post">
+    <div class="col-md-4 offset-3">
+        <div class="form-group">
+            <label>Name</label>
+            @*asp-for binds the Name field from viewmodel to this input field*@
+            @*asp-validation-for adds validations mentioned under the name field in viewmodel*@
+            <input type="text" asp-for="Name" required maxlength="50" class="form-control" />
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group">
+            <label>DOB</label>
+            <input type="date" asp-for="DOB" required class="form-control" />
+            <span class="text-danger" asp-validation-for="DOB"></span>
+        </div>
+        <div class="form-group">
+            <label>Gender</label>
+            <div class="form-check form-check-inline">
+                <input type="radio" asp-for="Gender" value="M" />
+                <label class="form-check-label">Male</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input type="radio" asp-for="Gender" value="F" />
+                <label class="form-check-label">Female</label>
+            </div>
+        </div>
+        <div class="form-group">
+            <label>Department</label>
+            <select asp-for="DeptId" asp-items="@(new SelectList(Model.Departments,"DeptId","Name"))" class="form-control"></select>
+            <span class="text-danger" asp-validation-for="DeptId"></span>
+        </div>
+        <div class="form-group">
+            <label>Grade</label>
+            <select asp-for="GradeId" asp-items="@(new SelectList(Model.Grades,"GradeId","Name"))" class="form-control"></select>
+            <span class="text-danger" asp-validation-for="GradeId"></span>
+        </div>
+        <div class="form-group">
+            <label>Email</label>
+
+            <input type="text" asp-for="Email" required maxlength="50" class="form-control" />
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+        <div class="form-group">
+            <label>Password</label>
+            @*@Html.TextBoxFor(emp=>emp.Name,)*@
+            <input type="password" asp-for="Password" required maxlength="50" class="form-control" />
+            <span class="text-danger" asp-validation-for="Password"></span>
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary btn-block">Add Employee</button>
+        </div>
+    </div>
+</form>

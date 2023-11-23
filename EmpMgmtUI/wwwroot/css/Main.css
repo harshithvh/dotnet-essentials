@@ -1,0 +1,21 @@
+﻿body {
+    font-family: Arial;
+    font-size: 12pt;
+}
+
+.mainHeading {
+    font-family: 'Comic Sans MS','Times New Roman';
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+    color: blue;
+    background-color: lightcyan
+}
+
+#tblMath th {
+    color: blueviolet;
+    text-align: right;
+    padding: 5px;
+    font-weight: bold;
+}

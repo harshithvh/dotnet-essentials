@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ProcessMath</title>
+</head>
+<body>
+    @if (ViewBag.IsError != null)
+    {
+        if (ViewBag.IsError)
+        {
+            <h3>@ViewBag.Message</h3>
+        }
+    }
+</body>
+</html>

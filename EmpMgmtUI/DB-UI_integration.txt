@@ -1,0 +1,97 @@
+﻿EmpMgmtDAL folder
+
+> EntityLayer folder
+    > Contains the definition of all the 3 tables Employee, Grade, Department for storing data
+    > DbContext file provides API for queying and updating the above tables
+
+EmpMgmtUI folder
+
+> appsettings.json folder
+    > This folder only provides a connectionstring with parameters to connect the sqlserver(ssms) with EmpMgmtDAL folder(specifically the dbContext file)
+
+> Startup.cs file
+    > Here is where the actual integration(connection) happens btw the EFcore(EmpMgmtDAL) and sqlserver through ConfigureServices method using the connectionstring
+
+> add-migration command:
+source - gpt-3
+
+In simpler terms, when you create a database using EF Core, you define a set of C# classes to represent the tables and relationships in the database.
+
+When you make changes to these classes, such as adding or removing properties or changing relationships between entities, you need to update the database schema to reflect these changes.
+
+The add-migration command generates a C# class that represents the changes you made to your C# classes, which EF Core can use to update the database schema.
+
+For example, if you added a new property to an entity, running the add-migration command would generate a C# class that includes the necessary SQL commands to add a new column to the corresponding table in the database.
+
+Once you have reviewed and confirmed that the generated migration is correct, you can then use the update-database command to apply the changes to the database.
+
+This allows you to manage changes to your database schema in a structured and repeatable way using EF Core.
+
+On running this command if the Migrations folder has been created successfully in EmpMgmtDAL folder this means that the command has run successfully
+
+Note: Before running this command in the Package Manager Console the project(EmpMgmtDAL) that contains DbContext must be referenced
+
+
+> add-migration command explanation with an example:
+
+Let's say you have a Department entity in your C# code that represents a department in your company:
+
+public class Department
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+}
+
+You have also created a DbContext class that defines the database context:
+
+public class MyDbContext : DbContext
+{
+    public DbSet<Department> Departments { get; set; }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseSqlServer("connectionString");
+    }
+}
+
+Now let's say you want to add a new property to the Department entity, such as ManagerName.
+
+First, you would update the Department class to include the new property:
+
+public class Department
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string ManagerName { get; set; }
+}
+
+Next, you would run the add-migration command in the Package Manager Console:
+
+add-migration <name>
+
+This generates a new migration class that EF Core can use to update the database schema.
+The migration file might look something like this:
+
+public partial class AddManagerNameToDepartment : Migration
+{
+    protected override void Up(MigrationBuilder migrationBuilder)
+    {
+        migrationBuilder.AddColumn<string>(
+            name: "ManagerName",
+            table: "Departments",
+            nullable: true);
+    }
+
+    protected override void Down(MigrationBuilder migrationBuilder)
+    {
+        migrationBuilder.DropColumn(
+            name: "ManagerName",
+            table: "Departments");
+    }
+}
+
+Finally, you would apply the migration to the database by running the update-database command in the Package Manager Console:
+
+update-database
+
+This applies the changes to the database schema, adding the new ManagerName column to the Departments table.

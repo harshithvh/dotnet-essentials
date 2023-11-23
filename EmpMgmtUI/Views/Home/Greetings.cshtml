@@ -1,0 +1,49 @@
+﻿@using EmpMgmtUI.Models;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Greetings</title>
+</head>
+<body>
+    @{
+        int hour = DateTime.Now.Hour;
+
+        // downcaste since it is received as object
+        //string name = (string)ViewData["EmpName"];
+        //DateTime dob = (DateTime)ViewData["DOB"];
+        //double sal = (double)ViewData["Salary"];
+
+        // No need of downcasting
+        //string name = ViewBag.Name;
+        //DateTime dob = ViewBag.DOB;
+        //double sal = ViewBag.Salary;
+
+        MyEmployee emp = ViewBag.Employee;
+        string name = emp.Name;
+        DateTime dob = emp.DOB;
+        double sal = emp.Salary;
+    }
+    @if(hour > 0 && hour < 12)
+    {
+        <font color="blue"> <h3> Greeting @name and Good morninig</h3>    </font>
+    }
+    else if (hour >= 12 && hour < 16)
+    {
+        <font color="blue"> <h3> Greeting @name and Good afternoon</h3>    </font>
+    }
+    else if (hour >= 16 && hour < 20)
+    {
+        <font color="blue"> <h3> Greeting @name and Good evening</h3>    </font>
+    }
+    else
+    {
+        <font color="blue"> <h3> Greeting @name and night</h3>    </font>
+    }
+</body>
+</html>

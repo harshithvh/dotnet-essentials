@@ -1,0 +1,134 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+<script>
+    var xmlhttp = null;
+    var tbody = null;
+    // XMLHttpRequest object is commonly used in JavaScript to make HTTP requests to a web server without reloading the entire page.
+    window.addEventListener("load", () => {
+        xmlhttp = new XMLHttpRequest();
+    })
+
+    function findEmployee() {
+        let txt = document.getElementById("search").value;
+        tbody = document.getElementById("tbEmpData");
+        clearTable(tbody);
+
+        let url = "/api/manageemployeeapi/findemployees/" + txt;
+        xmlhttp.open("GET", url, true); // req has been initialized
+        // The readyState indicates the current state of the request, and the callback function (myFindCallback) will be called multiple times as the request progresses through different states.
+        xmlhttp.onreadystatechange = myFindCallback;
+        // Once a response is received from the server, the myFindCallback function will be called to handle the response
+        xmlhttp.send(); // req sent to server
+    }
+
+    function myFindCallback() {
+        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+            let data = xmlhttp.responseText; // responseText for JSON
+            let emps = JSON.parse(data); // convert a JSON string into a JavaScript object.
+            for (let i = 0; i < emps.length; i++) {
+                let e = emps[i];
+                let tr = document.createElement("tr");
+
+                let td = document.createElement("td");
+                td.innerText = e.name;
+
+                tr.appendChild(td);
+                td = document.createElement("td");
+                td.innerText = e.birthDate;
+
+                tr.appendChild(td);
+
+                td = document.createElement("td");
+                td.innerText = e.gender;
+
+                tr.appendChild(td);
+
+                td = document.createElement("td");
+                td.innerText = e.deptName;
+
+                tr.appendChild(td);
+
+                td = document.createElement("td");
+                td.innerText = e.grade;
+
+                tr.appendChild(td);
+
+                td = document.createElement("td");
+                td.innerText = e.email;
+
+                tr.appendChild(td);
+
+                tbody.appendChild(tr);
+            }
+        } else (xmlhttp.status == 404 || xmlhttp.status == 400)
+        {
+
+        }
+    }
+
+    function clearTable(tbody) {
+        while (tbody.hasChildNodes()) {
+            tbody.removeChild(tbody.firstChild)
+        }
+    }
+</script>
+
+<h5 class="m-4 p-3">Search Display Employee</h5>
+
+<div class="mt-2 mb-2">
+    <a asp-action="create"
+       asp-asp-controller="ManageEmployee"
+       class="btn btn-primary">Add new employee</a>
+</div>
+
+<form>
+<div class="col-md-12 mt-3">
+    <div class="input-group col-md-6 offset-3">
+        <input type="text" id="search" name="search" class="form-control"
+               placeholder="Search on name" />
+        <div class="input-group-append">
+            <button onclick="findEmployee()" type="button" name="btn1" class="btn btn-outline-secondary">Search</button>
+        </div>
+    </div>
+</div>
+</form>
+
+<div class="mt-3 col-md-10 offset-1">
+    <table class="table table-striped table-hover">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>BirthDate</th>
+            <th>DOJ</th>
+            <th>Gender</th>
+            <th>Department</th>
+            <th>Grade</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+        </thead>
+        <tbody id="tbEmpData">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.DOB.ToShortDateString()</td>
+                <td>@(item.DOJ.HasValue ? item.DOJ.Value : "No DOJ")</td>
+                <td>@(item.Gender == "M" ? "Male" : "Female")</td>
+                <td>@item.Department.Name</td>
+                <td>@item.Grade.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-controller="ManageEmployee"
+                   asp-route-id="@item.EmpId">Edit</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-controller="ManageEmployee"
+                   asp-route-id="@item.EmpId">Delete</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

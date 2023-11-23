@@ -1,0 +1,51 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="\css\main.css" rel="stylesheet" />
+    <title>Index</title>
+</head>
+<body>
+    <h1 class="mainHeading">Math MVC core</h1>
+
+    <form action="/mymath/processmath" method="post">
+        <table width="40%" align="center" id="tblMath">
+            <tr>
+                <th>Number 1</th>
+                <td>
+                    <input type="number" id="Num1" name="Num1" />
+                </td>
+            </tr>
+            <tr>
+                <th>Number 2</th>
+                <td>
+                    <input type="number" id="Num2" name="Num2" />
+                </td>
+            </tr>
+            <tr>
+                <th>Operation</th>
+                <td>
+                    <select id="opr" name="opr">
+                        <option value="-1">Select Operation</option>
+                        <option value="1">Add</option>
+                        <option value="2">Subtract</option>
+                        <option value="3">Multiply</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" id="btn1" name="btn1" value="Do Operation" />
+                </td>
+            </tr>
+        </table>
+    </form>
+
+</body>
+</html>
