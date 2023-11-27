@@ -1,0 +1,16 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.deps.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.runtimeconfig.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\bin\Debug\net5.0\InterfaceDemo.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.AssemblyInfo.cs
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\refint\InterfaceDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\InterfaceDemo.genruntimeconfig.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\InterfaceDemo\InterfaceDemo\obj\Debug\net5.0\ref\InterfaceDemo.dll
