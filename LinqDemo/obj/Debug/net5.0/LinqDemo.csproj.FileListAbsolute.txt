@@ -1,0 +1,16 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\bin\Debug\net5.0\LinqDemo.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\bin\Debug\net5.0\LinqDemo.deps.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.dev.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\bin\Debug\net5.0\LinqDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\bin\Debug\net5.0\LinqDemo.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfo.cs
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\refint\LinqDemo.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\LinqDemo.genruntimeconfig.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\LinqDemo\obj\Debug\net5.0\ref\LinqDemo.dll
