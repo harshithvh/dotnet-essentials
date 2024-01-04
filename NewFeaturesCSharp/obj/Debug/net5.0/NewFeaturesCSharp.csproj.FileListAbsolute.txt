@@ -1,0 +1,16 @@
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\bin\Debug\net5.0\NewFeaturesCSharp.exe
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\bin\Debug\net5.0\NewFeaturesCSharp.deps.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\bin\Debug\net5.0\NewFeaturesCSharp.runtimeconfig.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\bin\Debug\net5.0\NewFeaturesCSharp.runtimeconfig.dev.json
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\bin\Debug\net5.0\NewFeaturesCSharp.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\bin\Debug\net5.0\NewFeaturesCSharp.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.csproj.AssemblyReference.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.AssemblyInfoInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.AssemblyInfo.cs
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\refint\NewFeaturesCSharp.dll
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.pdb
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\NewFeaturesCSharp.genruntimeconfig.cache
+C:\Users\P12A9E6\OneDrive - Ceridian HCM Inc\Documents\self_trained\NewFeaturesCSharp\obj\Debug\net5.0\ref\NewFeaturesCSharp.dll
